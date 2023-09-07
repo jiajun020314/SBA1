@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="categories_array">
+        <item>Standard</item>
+        <item>Senior Citizen</item>
+        <item>Child</item>
+        <item>Haj Pilgrim</item>
+        <item>Student</item>
+        <item>Disabled</item>
+    </string-array>
+</resources>
